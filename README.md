@@ -5,12 +5,13 @@
 ### 🔭 O que estou trabalhando
  - SPA para automação de venda de produtos de um projeto beneficente chamado Fazenda Escola;
  - Explorando React + Redux + Rematch + Typescript;
+ - Diversas ferramentas open-source para desenvolvedores.
 
 ### 🤖 Tecnologias
  - Desenvolvimento backend utilizando **Laravel**, **NodeJS** e **Express**;
- - Desenvolvimento frontend utilizando **React** e **TailwindCSS**;
- - Automação de servidores utilizam **Ansible**;
- - Ferramentas que eu utilizo: **Docker**, **GitHub Actions**, **CapRover**, **Grafana**, **Prometheus**.
+ - Desenvolvimento frontend utilizando **Laravel Mix**, **Bootstrap**, **React** e **TailwindCSS**;
+ - Automação de servidores utilizando **Ansible**;
+ - Ferramentas que eu utilizo: **Docker**, **GitHub Actions**, **CodeDoc**, **CapRover**, **Grafana**, **Prometheus**.
  
 ### 💃 O que quero aprender
  - Typescript
@@ -41,11 +42,14 @@ Projetos mais simples e diferentes que ainda valem a pena terem um destaque.
  - [algoritmo-de-kosaraju](https://github.com/HugoJF/algoritmo-de-kosaraju) - implementação do Algoritmo de Kosaraju com C98;
  - [csgo-pipeline](https://github.com/HugoJF/csgo-pipeline) - processador de eventos UDP de servidores de CS:GO;
  - [chatbot-hamburgueria](https://github.com/HugoJF/chatbot-hamburgueria) - chat-bot com técnicas de IA para uma hamburgueria fictícia
- - [compressao-de-grafos](https://github.com/HugoJF/compressao-de-grafos) - compressão de grafos com C98;;
+ - [compressao-de-grafos](https://github.com/HugoJF/compressao-de-grafos) - compressão de grafos com C98;
  - [csgo-demo-recorder](https://github.com/HugoJF/csgo-demo-recorder) - gravador automático de *demos* de CS:GO;
- - [compilador-mini-pascal-python](https://github.com/HugoJF/compilador-mini-pascal-python) - compilador de um *sub-set* de Pascal em Python.
+ - [compilador-mini-pascal-python](https://github.com/HugoJF/compilador-mini-pascal-python) - compilador de um *sub-set* de Pascal em Python;
+ - [color-palette-analyser](https://github.com/HugoJF/color-palette-analyser) - analisador de paleta de cores inspirado em um devblog da Stripe;
+ - [twitch-clip-downloader](https://github.com/HugoJF/twitch-clip-downloader) - ferramenta de backup de videos da Twitch;
+ - [date-fns-interactive-format](https://github.com/HugoJF/date-fns-interactive-format) - documentação interativa para a biblioteca `date-fns`.
 
 ### ⚡ Curiosidades
  - Meus servidores de Counter Strike: Global Offensive tiveram, em seu pico, **mais de 7 mil conexões diarias (aproximadamente 200 mil mensais), com 32 mil usuários ativos mensalmente**;
  - **Minha introdução para o mundo da programação começou aos 13 anos aprendendo C**, e cresceu com automação de planilhas Excel;
- - **Grande parte dos meus conhecimentos sobre programação veio da internet** e muitos projetos pessoais no meu tempo livre.
+ - **Grande parte dos meus aprendizados sobre programação vem da internet** e diversos projetos pessoais no meu tempo livre.
