@@ -11,17 +11,21 @@
  - Desenvolvimento backend utilizando **Laravel**, **NodeJS** e **Express**;
  - Desenvolvimento frontend utilizando **Laravel Mix**, **Bootstrap**, **React** e **TailwindCSS**;
  - Automação de servidores utilizando **Ansible**;
- - Ferramentas que eu utilizo: **Docker**, **GitHub Actions**, **CodeDoc**, **CapRover**, **Grafana**, **Prometheus**.
+ - Ferramentas que eu utilizo: **Docker**, **GitHub Actions**, **CodeCov**, **CapRover**, **Grafana**, **Prometheus**, **TensorFlow**.
  
 ### 💃 O que quero aprender
- - Typescript
  - Golang
- - AWS
+ - GraphQL
+ - AWS e GCP
  - Vue.JS
+ - AdonisJS
  
 ### 👷 Meus maiores projetos
 
 Meu projetos mais elaborados e desafiadores que exigiram diversas habilidades e conhecimentos.
+
+#### 🍅 [Mercado Escola](https://github.com/HugoJF/market)
+Desenvolvido em Laravel, React e TailwindCSS, hospedado com CapRover e com sistema storage Minio, **tenta imitar a experiência de um aplicativo nativo** com um design único, com objetivo de fornecer um sistema para automação da logística do projeto Mercado Escola com uma interface fácil e intuitiva. O sistema permite que qualquer usuário cadastre um endereço e realize pedidos (entrega ou retirada) dos produtos disponíveis pela plataforma, esses pedidos são então compilados em uma lista bruta de projetos para que os coordenadores do projeto possam entrar em contato com fornecedores e no final do período de vendas, realizar as entregas.
 
 #### 🕹 [Sistema de hospedagem de servidores de jogos](https://github.com/HugoJF/game-hosting-panel)
 Desenvolvido em Laravel, React, Bootstrap, TailwindCSS, e NodeJS, **tem objetivo automatizar todo ambiente necessário para clientes poderem hospedar diversos servidores de jogos em questão de segundos**. Um dos seus maiores desafios sendo **reduzir o tempo de instalação para** (fazendo uso de um cache HTTP local), **maximizar densidade de servidores que podem ser armazenados em um dado momento** (utilizando sistemas de arquivos que permitem deduplicação) e **garantir escalabilidade vertical e horizontal** (expansão de discos sem downtime, migração de nodes com downtime mínimo, capacidade de operar em múltiplos nodes, migração de servidores entre nodes, etc).
@@ -47,9 +51,11 @@ Projetos mais simples e diferentes que ainda valem a pena terem um destaque.
  - [compilador-mini-pascal-python](https://github.com/HugoJF/compilador-mini-pascal-python) - compilador de um *sub-set* de Pascal em Python;
  - [color-palette-analyser](https://github.com/HugoJF/color-palette-analyser) - analisador de paleta de cores inspirado em um devblog da Stripe;
  - [twitch-clip-downloader](https://github.com/HugoJF/twitch-clip-downloader) - ferramenta de backup de videos da Twitch;
- - [date-fns-interactive-format](https://github.com/HugoJF/date-fns-interactive-format) - documentação interativa para a biblioteca `date-fns`.
+ - [date-fns-interactive-format](https://github.com/HugoJF/date-fns-interactive-format) - documentação interativa para a biblioteca `date-fns`;
+ - [market](https://github.com/HugoJF/market) - PWA para controle de pedidos online do projeto Mercado Escola;
+ - [twitch-game-predictor](https://github.com/HugoJF/twitch-game-predictor) - experimento para detectar qual jogo um streamer da Twitch está jogando usando visão computacional.
 
 ### ⚡ Curiosidades
  - Meus servidores de Counter Strike: Global Offensive tiveram, em seu pico, **mais de 7 mil conexões diarias (aproximadamente 200 mil mensais), com 32 mil usuários ativos mensalmente**;
  - **Minha introdução para o mundo da programação começou aos 13 anos aprendendo C**, e cresceu com automação de planilhas Excel;
- - **Grande parte dos meus aprendizados sobre programação vem da internet** e diversos projetos pessoais no meu tempo livre.
+ - **Grande parte dos meus aprendizados sobre programação veio da internet** e diversos projetos pessoais no meu tempo livre.
