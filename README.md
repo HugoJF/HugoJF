@@ -52,7 +52,7 @@ Projetos mais simples e diferentes que ainda valem a pena terem um destaque.
  - [color-palette-analyser](https://github.com/HugoJF/color-palette-analyser) - analisador de paleta de cores inspirado em um devblog da Stripe;
  - [twitch-clip-downloader](https://github.com/HugoJF/twitch-clip-downloader) - ferramenta de backup de videos da Twitch;
  - [date-fns-interactive-format](https://github.com/HugoJF/date-fns-interactive-format) - documentação interativa para a biblioteca `date-fns`;
- - [market](https://github.com/HugoJF/market) - PWA para controle de pedidos online do projeto Mercado Escola;
+ - [mercado-escola](https://github.com/HugoJF/mercado-escola) - PWA para controle de pedidos online do projeto Mercado Escola;
  - [twitch-game-predictor](https://github.com/HugoJF/twitch-game-predictor) - experimento para detectar qual jogo um streamer da Twitch está jogando usando visão computacional.
 
 ### ⚡ Curiosidades
