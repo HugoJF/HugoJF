@@ -3,22 +3,24 @@
  Meu nome é Hugo, estudante de Engenharia da Computação pela UFMS. Estou desenvolvendo diversos projetos pessoais envolvendo jogos eletrônicos, tecnologias web e automação de servidores Linux. Meu objetivo é criar uma fundação sólida de tecnologias frontend e backend para transformar ideias em soluções.
 
 ### 🔭 O que estou trabalhando
+ - Estudando Golang (focando em inspeção de pacotes de rede);
  - SPA para automação de venda de produtos de um projeto beneficente chamado Fazenda Escola;
- - Explorando React + Redux + Rematch + Typescript;
- - Diversas ferramentas open-source para desenvolvedores.
+ - Um webapp para auxiliar jogar Banco Imobiliário;
+ - Firmwares para C8051 para disciplina de Microcontroladores e Aplicações.
 
 ### 🤖 Tecnologias
  - Desenvolvimento backend utilizando **Laravel**, **NodeJS** e **Express**;
  - Desenvolvimento frontend utilizando **Laravel Mix**, **Bootstrap**, **React** e **TailwindCSS**;
- - Automação de servidores utilizando **Ansible**;
- - Ferramentas que eu utilizo: **Docker**, **GitHub Actions**, **CodeCov**, **CapRover**, **Grafana**, **Prometheus**, **TensorFlow**.
+ - Automação de servidores utilizando **Ansible** e **CapRover**;
+ - Ferramentas que eu utilizo: **Docker**, **GitHub Actions**, **CodeCov**, **Grafana**, **Prometheus**, **TensorFlow**.
  
 ### 💃 O que quero aprender
  - Golang
  - GraphQL
+ - React Native
  - AWS e GCP
+ - ESP32
  - Vue.JS
- - AdonisJS
  
 ### 👷 Meus maiores projetos
 
@@ -58,4 +60,6 @@ Projetos mais simples e diferentes que ainda valem a pena terem um destaque.
 ### ⚡ Curiosidades
  - Meus servidores de Counter Strike: Global Offensive tiveram, em seu pico, **mais de 7 mil conexões diarias (aproximadamente 200 mil mensais), com 32 mil usuários ativos mensalmente**;
  - **Minha introdução para o mundo da programação começou aos 13 anos aprendendo C**, e cresceu com automação de planilhas Excel;
- - **Grande parte dos meus aprendizados sobre programação veio da internet** e diversos projetos pessoais no meu tempo livre.
+ - **Grande parte dos meus aprendizados sobre programação veio da internet** e diversos projetos pessoais no meu tempo livre;
+ - **Sou grande fã das ferramentas da JetBrains**, e apesar do custo, trato como ferramenta essencial para produtividade;
+ - Não gosto de assistir aulas ou cursos, **gosto de mergulhar de cabeça** para aprender algo novo.
