@@ -3,10 +3,17 @@
  Meu nome é Hugo, estudante de Engenharia da Computação pela UFMS. Estou desenvolvendo diversos projetos pessoais envolvendo jogos eletrônicos, tecnologias web e automação de servidores Linux. Meu objetivo é criar uma fundação sólida de tecnologias frontend e backend para transformar ideias em soluções.
 
 ### 🔭 O que estou trabalhando
- - Estudando Golang (focando em inspeção de pacotes de rede);
- - SPA para automação de venda de produtos de um projeto beneficente chamado Fazenda Escola;
- - Um webapp para auxiliar jogar Banco Imobiliário;
+ - Estagiando (30h semanais);
+ - Dando manutenção para um SPA para automação de venda de produtos de um projeto beneficente chamado Fazenda Escola;
  - Firmwares para C8051 para disciplina de Microcontroladores e Aplicações.
+
+### 📖 O que estou estudando
+ - Angular
+ - AWS
+ - Serverless
+ - NodeJS
+ - GraphQL
+ - NoSQL
 
 ### 🤖 Tecnologias
  - Desenvolvimento backend utilizando **Laravel**, **NodeJS** e **Express**;
@@ -16,10 +23,9 @@
  
 ### 💃 O que quero aprender
  - Golang
- - GraphQL
  - React Native
- - AWS e GCP
- - ESP32
+ - GCP e Azure
+ - ESP32 e Arduino
  - Vue.JS
  
 ### 👷 Meus maiores projetos
