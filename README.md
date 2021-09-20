@@ -5,15 +5,15 @@
 ### 🔭 O que estou trabalhando
  - Estagiando (30h semanais);
  - Dando manutenção para um SPA para automação de venda de produtos de um projeto beneficente chamado Mercado Escola;
- - Firmwares para C8051 para disciplina de Microcontroladores e Aplicações.
+ - Desenvolvendo projetos de estudo para Serverless utilizando serviços da AWS.
 
 ### 📖 O que estou estudando
  - DynamoDB (foco em single-table design);
  - Serverless (Javascript e PHP);
- - Angular
- - GraphQL
- - AWS
- - NestJS
+ - Angular;
+ - GraphQL;
+ - AWS;
+ - NestJS.
 
 ### 🤖 Tecnologias
  - Desenvolvimento backend utilizando **Laravel**, **NestJS**, **NodeJS** e **Express**;
@@ -22,12 +22,12 @@
  - Ferramentas que eu utilizo: **Docker**, **Figma**, **Jest**, **PHPUnit**, **Insomnia**, **GitHub Actions**, **CodeCov**, **Grafana**, **Prometheus**, **TensorFlow**.
  
 ### 💃 O que planejo aprender
- - Golang
- - React Native
- - ESP32 e Arduino
- - Flutter
- - GCP e Azure
- - Vue.JS
+ - Golang;
+ - React Native;
+ - ESP32 e Arduino;
+ - Flutter;
+ - GCP e Azure;
+ - Vue.JS.
  
 ### 👷 Meus maiores projetos
 
