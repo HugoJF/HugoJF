@@ -4,28 +4,29 @@
 
 ### 🔭 O que estou trabalhando
  - Estagiando (30h semanais);
- - Dando manutenção para um SPA para automação de venda de produtos de um projeto beneficente chamado Fazenda Escola;
+ - Dando manutenção para um SPA para automação de venda de produtos de um projeto beneficente chamado Mercado Escola;
  - Firmwares para C8051 para disciplina de Microcontroladores e Aplicações.
 
 ### 📖 O que estou estudando
+ - DynamoDB (foco em single-table design);
+ - Serverless (Javascript e PHP);
  - Angular
- - AWS
- - Serverless
- - NodeJS
  - GraphQL
- - NoSQL
+ - AWS
+ - NestJS
 
 ### 🤖 Tecnologias
- - Desenvolvimento backend utilizando **Laravel**, **NodeJS** e **Express**;
- - Desenvolvimento frontend utilizando **Laravel Mix**, **Bootstrap**, **React** e **TailwindCSS**;
- - Automação de servidores utilizando **Ansible** e **CapRover**;
- - Ferramentas que eu utilizo: **Docker**, **GitHub Actions**, **CodeCov**, **Grafana**, **Prometheus**, **TensorFlow**.
+ - Desenvolvimento backend utilizando **Laravel**, **NestJS**, **NodeJS** e **Express**;
+ - Desenvolvimento frontend utilizando **Laravel Mix**, **Bootstrap**, **Angular**, **React** e **TailwindCSS**;
+ - Automação de infraestrutura utilizando **AWS**, **Ansible** e **CapRover**;
+ - Ferramentas que eu utilizo: **Docker**, **Figma**, **Jest**, **PHPUnit**, **Insomnia**, **GitHub Actions**, **CodeCov**, **Grafana**, **Prometheus**, **TensorFlow**.
  
-### 💃 O que quero aprender
+### 💃 O que planejo aprender
  - Golang
  - React Native
- - GCP e Azure
  - ESP32 e Arduino
+ - Flutter
+ - GCP e Azure
  - Vue.JS
  
 ### 👷 Meus maiores projetos
