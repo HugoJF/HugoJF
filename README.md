@@ -2,26 +2,24 @@
 
  Meu nome é Hugo, estudante de Engenharia da Computação pela UFMS. Estou desenvolvendo diversos projetos pessoais envolvendo jogos eletrônicos, tecnologias web e automação de servidores Linux. Meu objetivo é criar uma fundação sólida de tecnologias frontend e backend para transformar ideias em soluções.
 
-### 🔭 O que estou trabalhando
- - Estagiando (30h semanais);
+### 🔭 Atualmente estou
+ - Trabalhando fulltime;
  - Dando manutenção para um SPA para automação de venda de produtos de um projeto beneficente chamado Mercado Escola;
- - Desenvolvendo projetos de estudo para Serverless utilizando serviços da AWS.
+ - Estudando novas tecnologias no meu tempo livre.
 
-### 📖 O que estou estudando
- - DynamoDB (foco em single-table design);
- - Serverless (Javascript e PHP);
- - Angular;
+### 📖 Focos dos meus estudos
+ - NextJS;
  - GraphQL;
- - AWS;
- - NestJS.
+ - AWS.
 
 ### 🤖 Tecnologias
- - Desenvolvimento backend utilizando **Laravel**, **NestJS**, **NodeJS** e **Express**;
- - Desenvolvimento frontend utilizando **Laravel Mix**, **Bootstrap**, **Angular**, **React** e **TailwindCSS**;
- - Automação de infraestrutura utilizando **AWS**, **Ansible** e **CapRover**;
- - Ferramentas que eu utilizo: **Docker**, **Figma**, **Jest**, **PHPUnit**, **Insomnia**, **GitHub Actions**, **CodeCov**, **Grafana**, **Prometheus**, **TensorFlow**.
+ - Desenvolvimento backend utilizando **Laravel**, **NestJS**, **NodeJS** e **Serverless Framework**;
+ - Desenvolvimento frontend utilizando **React**, **TailwindCSS**, **Bootstrap**, **Angular** e **Laravel Mix**;
+ - Automação de infraestrutura utilizando **AWS**, **Ansible** **Python** e **CapRover**;
+ - Bancos de dados com experiência: **MariaDB**, **MySQL**, **DynamoDB**;
+ - Ferramentas que eu utilizo: **Docker**, **Figma**, **Jest**, **PHPUnit**, **HTTPToolkit**, **Insomnia**, **GitHub Actions**, **CodeCov**, **Grafana**, **Prometheus**, **TensorFlow**.
  
-### 💃 O que planejo aprender
+### 💃 Tenho vontade de aprender
  - Golang;
  - React Native;
  - ESP32 e Arduino;
@@ -33,7 +31,7 @@
 
 Meu projetos mais elaborados e desafiadores que exigiram diversas habilidades e conhecimentos.
 
-#### 🍅 [Mercado Escola](https://github.com/HugoJF/market)
+#### 🍅 [Mercado Escola](https://github.com/HugoJF/mercado-escola)
 Desenvolvido em Laravel, React e TailwindCSS, hospedado com CapRover e com sistema storage Minio, **tenta imitar a experiência de um aplicativo nativo** com um design único, com objetivo de fornecer um sistema para automação da logística do projeto Mercado Escola com uma interface fácil e intuitiva. O sistema permite que qualquer usuário cadastre um endereço e realize pedidos (entrega ou retirada) dos produtos disponíveis pela plataforma, esses pedidos são então compilados em uma lista bruta de projetos para que os coordenadores do projeto possam entrar em contato com fornecedores e no final do período de vendas, realizar as entregas.
 
 #### 🕹 [Sistema de hospedagem de servidores de jogos](https://github.com/HugoJF/game-hosting-panel)
