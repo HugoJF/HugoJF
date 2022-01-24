@@ -4,17 +4,18 @@
 
 ### 🔭 Atualmente estou
  - Trabalhando fulltime;
- - Dando manutenção para um SPA para automação de venda de produtos de um projeto beneficente chamado Mercado Escola;
+ - Refatorando um SPA para automação de venda de produtos de um projeto beneficente chamado Mercado Escola;
  - Estudando novas tecnologias no meu tempo livre.
 
 ### 📖 Focos dos meus estudos
  - NextJS;
+ - MongoDB;
  - GraphQL;
  - AWS.
 
 ### 🤖 Tecnologias
  - Desenvolvimento backend utilizando **Laravel**, **NestJS**, **NodeJS** e **Serverless Framework**;
- - Desenvolvimento frontend utilizando **React**, **TailwindCSS**, **Bootstrap**, **Angular** e **Laravel Mix**;
+ - Desenvolvimento frontend utilizando **React**, **NextJS**, **TailwindCSS**, **Bootstrap**, **Angular** e **Laravel Mix**;
  - Automação de infraestrutura utilizando **AWS**, **Ansible** **Python** e **CapRover**;
  - Bancos de dados com experiência: **MariaDB**, **MySQL**, **DynamoDB**;
  - Ferramentas que eu utilizo: **Docker**, **Figma**, **Jest**, **PHPUnit**, **HTTPToolkit**, **Insomnia**, **GitHub Actions**, **CodeCov**, **Grafana**, **Prometheus**, **TensorFlow**.
