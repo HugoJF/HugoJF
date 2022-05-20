@@ -4,14 +4,12 @@
 
 ### 🔭 Atualmente estou
  - Trabalhando fulltime;
- - Refatorando um SPA para automação de venda de produtos de um projeto beneficente chamado Mercado Escola;
- - Estudando novas tecnologias no meu tempo livre.
+ - Refatorando um SPA para automação de venda de produtos de um projeto beneficente chamado Mercado Escola.
 
-### 📖 Focos dos meus estudos
+### 📖 Focos dos meus estudos atuais
  - NextJS;
- - MongoDB;
- - GraphQL;
- - AWS.
+ - Os limites de arquiteturas serverless;
+ - Testes automatizados.
 
 ### 🤖 Tecnologias
  - Desenvolvimento backend utilizando **Laravel**, **NestJS**, **NodeJS** e **Serverless Framework**;
@@ -61,7 +59,8 @@ Projetos mais simples e diferentes que ainda valem a pena terem um destaque.
  - [twitch-clip-downloader](https://github.com/HugoJF/twitch-clip-downloader) - ferramenta de backup de videos da Twitch;
  - [date-fns-interactive-format](https://github.com/HugoJF/date-fns-interactive-format) - documentação interativa para a biblioteca `date-fns`;
  - [mercado-escola](https://github.com/HugoJF/mercado-escola) - PWA para controle de pedidos online do projeto Mercado Escola;
- - [twitch-game-predictor](https://github.com/HugoJF/twitch-game-predictor) - experimento para detectar qual jogo um streamer da Twitch está jogando usando visão computacional.
+ - [twitch-game-predictor](https://github.com/HugoJF/twitch-game-predictor) - experimento para detectar qual jogo um streamer da Twitch está jogando usando visão computacional;
+ - [aws-spot-gaming](https://github.com/HugoJF/aws-spot-gaming) - stack em AWS CDK para hospedagem de servidores de jogos utilizando EC2 Spot Instances.
 
 ### ⚡ Curiosidades
  - Meus servidores de Counter Strike: Global Offensive tiveram, em seu pico, **mais de 7 mil conexões diarias (aproximadamente 200 mil mensais), com 32 mil usuários ativos mensalmente**;
