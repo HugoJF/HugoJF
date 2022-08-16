@@ -7,9 +7,8 @@
  - Refatorando um SPA para automação de venda de produtos de um projeto beneficente chamado Mercado Escola.
 
 ### 📖 Focos dos meus estudos atuais
- - NextJS;
- - Os limites de arquiteturas serverless;
- - Testes automatizados.
+ - Ember.js;
+ - Ruby on Rails.
 
 ### 🤖 Tecnologias
  - Desenvolvimento backend utilizando **Laravel**, **NestJS**, **NodeJS** e **Serverless Framework**;
