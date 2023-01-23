@@ -62,8 +62,10 @@ Projetos mais simples e diferentes que ainda valem a pena terem um destaque.
  - [aws-spot-gaming](https://github.com/HugoJF/aws-spot-gaming) - stack em AWS CDK para hospedagem de servidores de jogos utilizando EC2 Spot Instances.
 
 ### ⚡ Curiosidades
+![](https://komarev.com/ghpvc/?username=hugojf&color=green)
  - Meus servidores de Counter Strike: Global Offensive tiveram, em seu pico, **mais de 7 mil conexões diarias (aproximadamente 200 mil mensais), com 32 mil usuários ativos mensalmente**;
  - **Minha introdução para o mundo da programação começou aos 13 anos aprendendo C**, e cresceu com automação de planilhas Excel;
  - **Grande parte dos meus aprendizados sobre programação veio da internet** e diversos projetos pessoais no meu tempo livre;
  - **Sou grande fã das ferramentas da JetBrains**, e apesar do custo, trato como ferramenta essencial para produtividade;
  - Não gosto de assistir aulas ou cursos, **gosto de mergulhar de cabeça** para aprender algo novo.
+
