@@ -1,71 +1,74 @@
-### Olá 👋
+[🇺🇸](https://github.com/HugoJF/HugoJF/blob/main/README.md) [🇧🇷](https://github.com/HugoJF/HugoJF/blob/main/README.pt.md)
 
- Meu nome é Hugo, estudante de Engenharia da Computação pela UFMS. Estou desenvolvendo diversos projetos pessoais envolvendo jogos eletrônicos, tecnologias web e automação de servidores Linux. Meu objetivo é criar uma fundação sólida de tecnologias frontend e backend para transformar ideias em soluções.
+### Hello 👋
 
-### 🔭 Atualmente estou
- - Trabalhando fulltime;
- - Refatorando um SPA para automação de venda de produtos de um projeto beneficente chamado Mercado Escola.
+I'm Hugo, with a degree in Computer Engineering from UFMS, focused on building web products and automation systems for game infrastructure.
+I have hands-on experience across backend, frontend, and operations, with projects ranging from full platforms to specialized tools.
 
-### 📖 Focos dos meus estudos atuais
- - Ember.js;
- - Ruby on Rails.
+### 🤖 Technologies
+- Languages: **PHP**, **TypeScript**, **JavaScript**, **Go**, **Python**;
+- Backend: **Laravel**, **NestJS**, **Node.js**, **Express**, **Hono**, **Serverless Framework**;
+- Frontend: **React**, **Next.js**, **TailwindCSS**, **Angular**, **Vite**;
+- Infrastructure and automation: **AWS**, **AWS CDK**, **Ansible**, **Docker**, **CapRover**, **Terraform**, **Pulumi**;
+- Data: **MariaDB**, **MySQL**, **Postgres**, **DynamoDB**, **Redis**;
+- Observability and quality: **GitHub Actions**, **Jest**, **PHPUnit**, **Grafana**, **Prometheus**, **OpenTelemetry**.
 
-### 🤖 Tecnologias
- - Desenvolvimento backend utilizando **Laravel**, **NestJS**, **NodeJS** e **Serverless Framework**;
- - Desenvolvimento frontend utilizando **React**, **NextJS**, **TailwindCSS**, **Bootstrap**, **Angular** e **Laravel Mix**;
- - Automação de infraestrutura utilizando **AWS**, **Ansible** **Python** e **CapRover**;
- - Bancos de dados com experiência: **MariaDB**, **MySQL**, **DynamoDB**;
- - Ferramentas que eu utilizo: **Docker**, **Figma**, **Jest**, **PHPUnit**, **HTTPToolkit**, **Insomnia**, **GitHub Actions**, **CodeCov**, **Grafana**, **Prometheus**, **TensorFlow**.
- 
-### 💃 Tenho vontade de aprender
- - Golang;
- - React Native;
- - ESP32 e Arduino;
- - Flutter;
- - GCP e Azure;
- - Vue.JS.
- 
-### 👷 Meus maiores projetos
+### 👷 My Main Projects
 
-Meu projetos mais elaborados e desafiadores que exigiram diversas habilidades e conhecimentos.
+More robust projects with broader product, architecture, and operational scope.
 
 #### 🍅 [Mercado Escola](https://github.com/HugoJF/mercado-escola)
-Desenvolvido em Laravel, React e TailwindCSS, hospedado com CapRover e com sistema storage Minio, **tenta imitar a experiência de um aplicativo nativo** com um design único, com objetivo de fornecer um sistema para automação da logística do projeto Mercado Escola com uma interface fácil e intuitiva. O sistema permite que qualquer usuário cadastre um endereço e realize pedidos (entrega ou retirada) dos produtos disponíveis pela plataforma, esses pedidos são então compilados em uma lista bruta de projetos para que os coordenadores do projeto possam entrar em contato com fornecedores e no final do período de vendas, realizar as entregas.
+`Laravel` `React` `TypeScript` `TailwindCSS` `CapRover` `MinIO`
 
-#### 🕹 [Sistema de hospedagem de servidores de jogos](https://github.com/HugoJF/game-hosting-panel)
-Desenvolvido em Laravel, React, Bootstrap, TailwindCSS, e NodeJS, **tem objetivo automatizar todo ambiente necessário para clientes poderem hospedar diversos servidores de jogos em questão de segundos**. Um dos seus maiores desafios sendo **reduzir o tempo de instalação para** (fazendo uso de um cache HTTP local), **maximizar densidade de servidores que podem ser armazenados em um dado momento** (utilizando sistemas de arquivos que permitem deduplicação) e **garantir escalabilidade vertical e horizontal** (expansão de discos sem downtime, migração de nodes com downtime mínimo, capacidade de operar em múltiplos nodes, migração de servidores entre nodes, etc).
+A Laravel + React + TailwindCSS platform that automates logistics and ordering for a non-profit project, focused on UX and end-to-end operational flow.
 
-#### 💸 API unificada de pagamentos
-Também desenvolvido em Laravel e TailwindCSS, com foco em **simplificar e acelerar implementação de sistemas de pagamentos para meus projetos pessoais**, independente de gateway de pagamento.
+#### 🕹 [Game Hosting Panel](https://github.com/HugoJF/game-hosting-panel)
+`Laravel` `Node.js` `Pterodactyl` `MySQL` `Bootstrap` `TailwindCSS`
 
-### 👌 Projetos interessantes
+A game server hosting/reselling platform integrated with Pterodactyl, focused on fast provisioning, billing, and multi-node operations.
 
-Projetos mais simples e diferentes que ainda valem a pena terem um destaque.
+#### 💸 [Payment System](https://github.com/HugoJF/payment-system)
+`Laravel` `PHP` `Node.js` `Express` `Payment Gateways`
 
- - [surfExtractor](https://github.com/HugoJF/surfExtractor) - extrator de atributos SURF para imagens microscópicas de pólens.
- - [csgo-ip-sniffer](https://github.com/HugoJF/csgo-ip-sniffer) - monitor de servidores de CS:GO;
- - [vip-admin-2](https://github.com/HugoJF/vip-admin-2) - sistema de venda de assinaturas para servidores de CS:GO;
- - [eflash](https://github.com/HugoJF/eflash) - wrapper para [laracasts/flash](https://github.com/laracasts/flash) para ter uso similar ao `printf`;
- - [csgo-sessions](https://github.com/HugoJF/csgo-sessions) - sistema de estatística para servidores de CS:GO;
- - [calladmin-middleware](https://github.com/HugoJF/calladmin-middleware) - sistema centralizado de denúncias dos servidores de CS:GO;
- - [algoritmo-de-kosaraju](https://github.com/HugoJF/algoritmo-de-kosaraju) - implementação do Algoritmo de Kosaraju com C98;
- - [csgo-pipeline](https://github.com/HugoJF/csgo-pipeline) - processador de eventos UDP de servidores de CS:GO;
- - [chatbot-hamburgueria](https://github.com/HugoJF/chatbot-hamburgueria) - chat-bot com técnicas de IA para uma hamburgueria fictícia
- - [compressao-de-grafos](https://github.com/HugoJF/compressao-de-grafos) - compressão de grafos com C98;
- - [csgo-demo-recorder](https://github.com/HugoJF/csgo-demo-recorder) - gravador automático de *demos* de CS:GO;
- - [compilador-mini-pascal-python](https://github.com/HugoJF/compilador-mini-pascal-python) - compilador de um *sub-set* de Pascal em Python;
- - [color-palette-analyser](https://github.com/HugoJF/color-palette-analyser) - analisador de paleta de cores inspirado em um devblog da Stripe;
- - [twitch-clip-downloader](https://github.com/HugoJF/twitch-clip-downloader) - ferramenta de backup de videos da Twitch;
- - [date-fns-interactive-format](https://github.com/HugoJF/date-fns-interactive-format) - documentação interativa para a biblioteca `date-fns`;
- - [mercado-escola](https://github.com/HugoJF/mercado-escola) - PWA para controle de pedidos online do projeto Mercado Escola;
- - [twitch-game-predictor](https://github.com/HugoJF/twitch-game-predictor) - experimento para detectar qual jogo um streamer da Twitch está jogando usando visão computacional;
- - [aws-spot-gaming](https://github.com/HugoJF/aws-spot-gaming) - stack em AWS CDK para hospedagem de servidores de jogos utilizando EC2 Spot Instances.
+A unified payments API for personal projects, abstracting gateway integrations and speeding up billing implementation.
 
-### ⚡ Curiosidades
- - Meus servidores de Counter Strike: Global Offensive tiveram, em seu pico, **mais de 7 mil conexões diarias (aproximadamente 200 mil mensais), com 32 mil usuários ativos mensalmente**;
- - **Minha introdução para o mundo da programação começou aos 13 anos aprendendo C**, e cresceu com automação de planilhas Excel;
- - **Grande parte dos meus aprendizados sobre programação veio da internet** e diversos projetos pessoais no meu tempo livre;
- - **Sou grande fã das ferramentas da JetBrains**, e apesar do custo, trato como ferramenta essencial para produtividade;
- - Não gosto de assistir aulas ou cursos, **gosto de mergulhar de cabeça** para aprender algo novo.
+#### 🧩 [CallAdmin Middleware](https://github.com/HugoJF/calladmin-middleware)
+`Laravel` `PHP` `Node.js` `MySQL` `FFmpeg` `SourceMod`
+
+An administration system for the CS ecosystem, handling reports, recordings, and an operational support pipeline (including recording-flow automations).
+
+### 👌 Interesting Projects
+
+Smaller and different projects that still deserve to be highlighted.
+
+ - [surfExtractor](https://github.com/HugoJF/surfExtractor) - SURF attribute extractor for microscopic pollen images.
+ - [csgo-ip-sniffer](https://github.com/HugoJF/csgo-ip-sniffer) - CS:GO server monitor/sniffer.
+ - [vip-admin-2](https://github.com/HugoJF/vip-admin-2) - subscription sales and management system for CS:GO servers.
+ - [eflash](https://github.com/HugoJF/eflash) - wrapper for [laracasts/flash](https://github.com/laracasts/flash) with a `printf`-style usage.
+ - [csgo-sessions](https://github.com/HugoJF/csgo-sessions) - statistics system for CS:GO servers.
+ - [calladmin-middleware](https://github.com/HugoJF/calladmin-middleware) - centralized report management for CS servers.
+ - [algoritmo-de-kosaraju](https://github.com/HugoJF/algoritmo-de-kosaraju) - Kosaraju algorithm implementation in C98.
+ - [csgo-pipeline](https://github.com/HugoJF/csgo-pipeline) - UDP event processing pipeline for CS:GO servers.
+ - [chatbot-hamburgueria](https://github.com/HugoJF/chatbot-hamburgueria) - chatbot for a fictional burger shop using AI techniques.
+ - [compressao-de-grafos](https://github.com/HugoJF/compressao-de-grafos) - graph compression in C98.
+ - [csgo-demo-recorder](https://github.com/HugoJF/csgo-demo-recorder) - automated *demo* pipeline (download, analysis, HLAE recording, and FFmpeg transcoding) integrated with CallAdmin.
+ - [compilador-mini-pascal-python](https://github.com/HugoJF/compilador-mini-pascal-python) - compiler for a Pascal subset in Python.
+ - [color-palette-analyser](https://github.com/HugoJF/color-palette-analyser) - color palette analyzer inspired by a Stripe engineering post.
+ - [twitch-clip-downloader](https://github.com/HugoJF/twitch-clip-downloader) - Twitch clip/video backup tool.
+ - [date-fns-interactive-format](https://github.com/HugoJF/date-fns-interactive-format) - interactive documentation for the `date-fns` library.
+ - [mercado-escola](https://github.com/HugoJF/mercado-escola) - PWA for online order management in the Mercado Escola project.
+ - [twitch-game-predictor](https://github.com/HugoJF/twitch-game-predictor) - experiment to detect which game a Twitch streamer is playing using computer vision.
+ - [aws-spot-gaming](https://github.com/HugoJF/aws-spot-gaming) - AWS CDK stack for game-server hosting on EC2 Spot Instances.
+ - [cs2-radar-matching](https://github.com/HugoJF/cs2-radar-matching) - CS2 radar homography/alignment project using computer vision.
+ - [csgo-server-api-laravel](https://github.com/HugoJF/csgo-server-api-laravel) - Laravel package for integrating with a CS:GO server API.
+ - [cache-simulator-tracergrind-parser](https://github.com/HugoJF/cache-simulator-tracergrind-parser) - trace parser and visualization for cache analysis.
+ - [tracergrind-docker](https://github.com/HugoJF/tracergrind-docker) - Docker environment for low-level tracing with TracerGrind/Valgrind.
+ - [brewfather-fermentation-notification](https://github.com/HugoJF/brewfather-fermentation-notification) - fermentation notification automation.
+
+### ⚡ Fun Facts
+
+- My CS:GO servers peaked at **7k+ daily connections** (around **200k/month**) and **32k monthly active users**;
+- I got into programming at age 13 with C and spreadsheet automation;
+- A large part of my learning came from hands-on projects and constant experimentation.
 
 ![](https://hit.yhype.me/github/profile?user_id=1527438)
