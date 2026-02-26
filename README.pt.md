@@ -1,4 +1,4 @@
-[🇺🇸](https://github.com/HugoJF/HugoJF/blob/main/README.md) [🇧🇷](https://github.com/HugoJF/HugoJF/blob/main/README.pt.md)
+[🇺🇸](https://github.com/HugoJF/HugoJF/blob/master/README.md) [🇧🇷](https://github.com/HugoJF/HugoJF/blob/master/README.pt.md)
 
 ### Olá 👋
 
